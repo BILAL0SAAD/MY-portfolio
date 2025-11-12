@@ -8,6 +8,12 @@
   
 </div>
 
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://my-portfolio-seven-kappa-31.vercel.app)
+
+**Visit the live site:** [https://my-portfolio-seven-kappa-31.vercel.app](https://my-portfolio-seven-kappa-31.vercel.app)
+
 ---
 
 ## 🚀 About Me
